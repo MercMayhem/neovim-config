@@ -20,6 +20,7 @@ return {
           { "encoding" },
           { "fileformat" },
           { "filetype" },
+          { "aerial" }
         },
       },
     })
